@@ -419,8 +419,8 @@ each section will be a gradient*/
 	padding: 20px;
 	margin: 20px;
 	background-color:#e2f7ff;
-	opacity: .8;
 	border: 3px solid #e2f7ff;
+	opacity: .95;
 	border-radius: 15px;
 	text-align: center;
 }
