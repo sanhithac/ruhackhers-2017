@@ -1,11 +1,4 @@
-@font-face {
-  font-family: "Montserrat";
-  src: url("../assets/fonts/Montserrat-Regular.tff");
-}
-
-
-
-body{
+ body{
   overflow-x: hidden;
 }
 
@@ -46,7 +39,7 @@ a:hover{
   box-shadow: 0 0 5px 0 #8b79bc;
   margin-bottom: 0;
   text-align: center;
-  font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: 'Montserrat';
   font-size: 18px;
   font-weight: 600;
   text-transform: lowercase;
@@ -141,7 +134,7 @@ section {
   min-height: 700px;
   padding:50px;
   text-align: center;
-  font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: 'Montserrat';
   margin: 0 auto;
 }
 
@@ -233,7 +226,7 @@ each section will be a gradient*/
 
 #hero-text{
   width: 100%;
-  font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: 'Montserrat';
   color: #9783c0;
 }
 
@@ -266,7 +259,7 @@ each section will be a gradient*/
 #about-text p{
   font-size: 18px;
   font-weight: 400;
-  font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: 'Montserrat';
   color: #1a0b31;
 }
 
@@ -277,8 +270,8 @@ each section will be a gradient*/
 }
 
 #faq .row .half-left, #faq .row .half-right {
-	width: 50%;
-	padding: 0 2.5rem;
+  width: 50%;
+  padding: 0 2.5rem;
   display: inline-block;
   float: left;
   position: relative;
@@ -319,7 +312,7 @@ each section will be a gradient*/
     margin-top: 1rem;
     font-size: 16px;
     font-weight: 400;
-    font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: 'Montserrat';
     color: #1a0b31;
 }
 
@@ -418,6 +411,8 @@ each section will be a gradient*/
 #get-involved a{
 	color: #baacdd;
 	font-size: 20px;
+	font-family: 'Montserrat';
+	font-weight: 700;
 }
 
 #get-involved .btn {
