@@ -184,7 +184,7 @@ each section will be a gradient*/
   background: -o-linear-gradient(#45ceff, #00b5f5); /* For Opera 11.1 to 12.0 */
   background: -moz-linear-gradient(#45ceff, #00b5f5); /* For Firefox 3.6 to 15 */
   background: linear-gradient(#45ceff, #00b5f5);
-  color: #9783c0;
+  color: #f9f9f9;
 }
 
 #sponsors{
@@ -319,6 +319,7 @@ each section will be a gradient*/
 
 /*schedule related styling*/
 
+
 #saturday, #sunday{
   font-size: 24px;
   color: #f9f9f9
@@ -333,6 +334,8 @@ each section will be a gradient*/
   color: #f9f9f9;
 
 }
+
+
 
 .times{
   display: inline-block;
@@ -356,7 +359,12 @@ each section will be a gradient*/
   display: block;
 }
 
+
 /* sponsors styling*/
+
+#sponsors h1 {
+	color: #f9f9f9;
+}
 
 #sponsors h4, #sponsors h5{
   color: #f7d5f7;
@@ -408,8 +416,16 @@ each section will be a gradient*/
 
 /* registration styling */
 
+#get-involved {
+	min-height: 500px;
+}
+
+#get-involved h1 {
+	color: #f9f9f9;
+}
+
 #get-involved a{
-	color: #baacdd;
+	color: #090909;
 	font-size: 20px;
 	font-family: 'Montserrat';
 	font-weight: 700;
@@ -423,12 +439,13 @@ each section will be a gradient*/
 	opacity: .95;
 	border-radius: 15px;
 	text-align: center;
+	box-shadow: 0 2px 2px  #090909;
 }
 
 #get-involved .btn:hover{
     background-color:#8b79bc;
     border-color:#8b79bc;
-	color: #fcb9f9;
+	color: #f7d5f7;
 	transition: all .3s ease-in-out;
 }
 
@@ -440,6 +457,10 @@ each section will be a gradient*/
 }
 
 /*team styling*/
+
+#team h1 {
+	color: #f9f9f9;
+}
 
 #team .row{
   margin-top: 30px;
@@ -835,7 +856,7 @@ footer a:hover{
 	#lockeed, #jpmorgan{
 		width: 275px;
 		height: auto;
-		margin: 0 auto;
+		margin: 25px auto;
 	}
 
 	#facebook, #bloomberg{
