@@ -39,7 +39,7 @@ a:hover{
   box-shadow: 0 0 5px 0 #8b79bc;
   margin-bottom: 0;
   text-align: center;
-  font-family: 'Montserrat';
+  font-family: 'Montserrat'; sans-serif;
   font-size: 18px;
   font-weight: 600;
   text-transform: lowercase;
@@ -402,13 +402,32 @@ each section will be a gradient*/
 	height: auto;
 }
 
-#lockeed, #jpmorgan{
+#lockeed, #jpmorgan, #vanguard{
 	width: 565px;
 	height: auto;
 	margin: 25px;
 }
 
-#facebook, #bloomberg{
+#verizon{
+	width: 350px;
+	height: auto;
+	margin: 45px;
+}
+
+#ups{
+	width: 200px;
+	height: auto;
+	margin: 45px;
+}
+
+#icims, #capital-one{
+	width: 268px;
+	height: auto;
+	margin: 25px;
+
+}
+
+#facebook, #bloomberg, #prudential{
 	width: 200px;
 	height: auto;
 	margin: 40px;
@@ -685,13 +704,31 @@ footer a:hover{
  		font-size: 14px;
 	}
   
-  	#lockeed, #jpmorgan{
-		width: 350px;
+  	#lockeed, #jpmorgan, #vanguard{
+		width: 400px;
 		height: auto;
 		margin: 0 auto;
 	}
+	
+	#verizon{
+		width: 245px;
+		height: auto;
+		margin: 25px;
+	}
 
-	#facebook, #bloomberg{
+	#ups{
+		width: 150px;
+		height: auto;
+		margin: 25px;
+	}
+	
+	#icims, #capital-one{
+		width: 200px;
+		height: auto;
+		margin: 25px;
+	}
+
+	#facebook, #bloomberg, #prudential{
 		width: 175px;
 		height: auto;
 		margin: 20px;
@@ -853,13 +890,32 @@ footer a:hover{
 	}
 
 	
-	#lockeed, #jpmorgan{
+	#lockeed, #jpmorgan, #vanguard{
 		width: 275px;
 		height: auto;
 		margin: 25px auto;
 	}
+	
+	#verizon{
+		width: 225px;
+		height: auto;
+		margin: 25px;
+	}
 
-	#facebook, #bloomberg{
+	#ups{
+		width: 125px;
+		height: auto;
+		margin: 25px;
+	}
+	
+	
+	#icims, #capital-one{
+		width: 175px;
+		height: auto;
+		margin: 25px;
+	}
+
+	#facebook, #bloomberg, #prudential{
 		width: 150px;
 		height: auto;
 		margin: 30px;
