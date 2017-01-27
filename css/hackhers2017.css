@@ -391,6 +391,12 @@ each section will be a gradient*/
 
 /*specific sponsor ids*/
 
+
+#special-thanks img{
+	width: 120px;
+	height: auto;
+}
+
 #drc {
 	width: 250px;
 	height: auto;
@@ -429,6 +435,12 @@ each section will be a gradient*/
 
 #facebook, #bloomberg, #prudential{
 	width: 200px;
+	height: auto;
+	margin: 40px;
+}
+
+#knowledgent{
+	width: 250px;
 	height: auto;
 	margin: 40px;
 }
@@ -733,6 +745,13 @@ footer a:hover{
 		height: auto;
 		margin: 20px;
 	}
+	
+	#knowledgent{
+		width: 225px;
+		height: auto;
+		margin: 40px;
+	}
+
 
 
   
@@ -920,6 +939,13 @@ footer a:hover{
 		height: auto;
 		margin: 30px;
 	}
+	
+	#knowledgent{
+		width: 200px;
+		height: auto;
+		margin: 40px;
+	}
+
 
 
 	#team .team-wrapper{
