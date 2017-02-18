@@ -335,8 +335,6 @@ each section will be a gradient*/
 
 }
 
-
-
 .times{
   display: inline-block;
 }
@@ -345,9 +343,6 @@ each section will be a gradient*/
   display: inline-block;
 }
 
-#change{
-	padding-left: 300px;
-}
 
 .times li{
   list-style-type: none;
@@ -762,6 +757,12 @@ footer a:hover{
   #filler-1, #filler-2 {
 		display: none;
 	}
+
+
+	
+.schedule{
+  margin: 0 auto;
+}
 
 
 
