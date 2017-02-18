@@ -345,6 +345,10 @@ each section will be a gradient*/
   display: inline-block;
 }
 
+#change{
+	padding-left: 300px;
+}
+
 .times li{
   list-style-type: none;
   text-align: left;
