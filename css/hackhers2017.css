@@ -249,10 +249,6 @@ each section will be a gradient*/
 }
 
 #about-text h1{
-  color: #033472;
-}	
-
-#about-text {
   margin: 0 auto;
   padding: 5rem;
   width: 800px;
