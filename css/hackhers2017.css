@@ -150,6 +150,7 @@ section h1{
   top: 0;
   background-color: #e2f7ff;
   text-align: center;
+  text-transform:capitalize;
 }
 
 
@@ -231,11 +232,13 @@ each section will be a gradient*/
 #hero-text h1{
   font-size: 38px;
   font-weight: 600;
+  text-transform: capitalize;
 }
 
 #hero-text h2{
   font-size: 25px;
   font-weight: 600;
+  text-transform: capitalize;
 }
 
 .img-txt #about-img{
@@ -245,14 +248,10 @@ each section will be a gradient*/
   border: 3px solid #f9f9f9;
 }
 
-#about-text{
+#about-text h1{
   margin: 0 auto;
   padding: 5rem;
   width: 800px;
-  color: #033472;
-}
-
-#about-text h1{
   color: #033472;
 }
 
