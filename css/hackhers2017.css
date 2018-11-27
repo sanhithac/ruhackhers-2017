@@ -253,6 +253,7 @@ each section will be a gradient*/
   margin: 0 auto;
   padding: 5rem;
   width: 800px;
+  color: #033472;
 }
 
 #about-text p{
@@ -260,6 +261,10 @@ each section will be a gradient*/
   font-weight: 400;
   font-family: 'Montserrat';
   color: #1a0b31;
+}
+
+#faq h1{
+  color: #033472;
 }
 
 #faq .row{
