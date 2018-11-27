@@ -14,17 +14,17 @@ a:hover{
 
 
 ::selection {
-  background: #9783c0;
+  background: #033472;
   color: #f9f9f9;
 }
 
 ::-moz-selection {
-    background: #9783c0;
+    background: #033472;
   	color: #f9f9f9;
 }
 
 ::-webkit-selection {
-    background: #9783c0;
+    background: #033472;
   	color: #f9f9f9;
 }
 
@@ -34,7 +34,7 @@ a:hover{
 .navbar{
   border-radius: 0;
   height: 80px;
-  background-color: #ACD3EC;
+  background-color: #033472;
   border-bottom: 1px solid #8b79bc;
   box-shadow: 0 0 5px 0 #8b79bc;
   margin-bottom: 0;
@@ -227,7 +227,7 @@ each section will be a gradient*/
 #hero-text{
   width: 100%;
   font-family: 'Montserrat';
-  color: #9783c0;
+  color: #033472;
 }
 
 #hero-text h1{
@@ -604,7 +604,7 @@ footer a:hover{
     margin-top:15px;
     margin-right:15px;
     margin-bottom:8px;
-    background-color:#9783c0;
+    background-color:#033472;
     background-image:none;
     border:3px solid #8b79bc;
     border-radius:4px
@@ -625,7 +625,7 @@ footer a:hover{
     padding: 0px;
     width: 100%;
     margin: -8px 0 0 0;
-    background-color:#9783c0;
+    background-color:#033472;
     height: 100%;
     overflow:hidden;
 
@@ -780,7 +780,7 @@ footer a:hover{
     padding: 0px;
     width: 100%;
     margin: -8px 0 0 0;
-    background-color:#9783c0;
+    background-color:#033472;
     height: 100%;
     overflow:hidden;
 
@@ -788,7 +788,7 @@ footer a:hover{
 
   .navbar-toggle{
   	margin-top: 20px;
-    background-color:#9783c0;
+    background-color:#033472;
     border:3px solid #8b79bc;
     border-radius:4px
   }
