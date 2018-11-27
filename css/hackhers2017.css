@@ -478,8 +478,8 @@ each section will be a gradient*/
 }
 
 #get-involved .btn:hover{
-    background-color:#8b79bc;
-    border-color:#8b79bc;
+    background-color:#033472;
+    border-color:#033472;
 	color: #ccecf3;
 	transition: all .3s ease-in-out;
 }
@@ -611,7 +611,7 @@ footer a:hover{
   }
 
   .navbar-toggle:hover{
-    background-color:#8b79bc;
+    background-color:#033472;
     color: #f9f9f9;
     transition: all .3s ease-in-out;
   }
@@ -789,12 +789,12 @@ footer a:hover{
   .navbar-toggle{
   	margin-top: 20px;
     background-color:#033472;
-    border:3px solid #8b79bc;
+    border:3px solid #021d40;
     border-radius:4px
   }
   
   .navbar-toggle:hover{
-    background-color:#8b79bc;
+    background-color:#021d40;
     color: #f9f9f9;
     transition: all .3s ease-in-out;
   }
