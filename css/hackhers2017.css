@@ -66,7 +66,7 @@ should be cleared when going to a different res size*/
 
 .navbar-nav > li > a:hover {
     background-color: transparent;
-    color: #fcb9f9;
+    color: #8ED4E4;
     transition: all .3s ease-in-out;
 }
 
