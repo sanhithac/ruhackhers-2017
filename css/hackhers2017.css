@@ -150,7 +150,6 @@ section h1{
   top: 0;
   background-color: #e2f7ff;
   text-align: center;
-
 }
 
 
@@ -232,14 +231,11 @@ each section will be a gradient*/
 #hero-text h1{
   font-size: 38px;
   font-weight: 600;
-  text-transform: lowercase;
 }
 
 #hero-text h2{
   font-size: 25px;
   font-weight: 600;
-  text-transform: lowercase;
-
 }
 
 .img-txt #about-img{
@@ -253,6 +249,10 @@ each section will be a gradient*/
   margin: 0 auto;
   padding: 5rem;
   width: 800px;
+  color: #033472;
+}
+
+#about-text h1{
   color: #033472;
 }
 
@@ -371,7 +371,8 @@ each section will be a gradient*/
 /* sponsors styling*/
 
 #sponsors h1 {
-	color: #f9f9f9;
+  text-transform: capitalize;
+  color: #f9f9f9;
 }
 
 #sponsors h3, #sponsors h4{
