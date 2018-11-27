@@ -119,7 +119,7 @@ list-inline > li {
 .btn-outline {
     margin-top: 15px;
     font-size: 30px;
-    color: #9783c0;
+    color: #033472;
     background: 0 0;
 }
 
@@ -299,7 +299,7 @@ each section will be a gradient*/
 
 }
 #faq h4{
-  color: #9783c0;
+  color: #033472;
   font-size: 22px;
   font-weight: 600;
   text-transform: lowercase;
@@ -356,7 +356,7 @@ each section will be a gradient*/
 }
 
 .events li{
-  color: #f7d5f7;
+  color: #ccecf3;
   margin-left: 5px;
   list-style-type: none;
   text-align: left;
@@ -371,7 +371,7 @@ each section will be a gradient*/
 }
 
 #sponsors h3, #sponsors h4{
-  color: #f7d5f7;
+  color: #ccecf3;
 }
 
 .sponsorship-wrapper{
@@ -480,7 +480,7 @@ each section will be a gradient*/
 #get-involved .btn:hover{
     background-color:#8b79bc;
     border-color:#8b79bc;
-	color: #f7d5f7;
+	color: #ccecf3;
 	transition: all .3s ease-in-out;
 }
 
